@@ -23,4 +23,5 @@ Use at your own risk. Read the comments. Feel free to ask questions if there's s
 		2. Network connection failed (button = "OK")
 		3. Update available (button = "Install Update")
 	+ The macro will select either of those buttons. If there an an update, it will install and Keyboard Maestro will re-launch. We don't even need to do anything else.
+	+ ["Raw" Link](https://github.com/tjluoma/keyboard-maestro-macros/raw/master/Keyboard-Maestro-Updates-Keyboard-Maestro.kmmacros)
 
